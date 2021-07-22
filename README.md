@@ -8,3 +8,12 @@ A attempt to create a universal calculator that can computes anything.
    - A call to API can used
 3. Anyone can embed the computation or the result via iframe
    - A json result can be consumed too  
+
+
+
+
+## FORMULA
+1. Butterfat blend milk amount [TODO]
+2. MCP milk amount [TOTO]
+3. Space rental amount [TODO]
+4. Final grade [TODO]
