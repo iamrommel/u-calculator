@@ -8,6 +8,7 @@ A attempt to create a universal calculator that can computes anything.
    - A call to API can used
 3. Anyone can embed the computation or the result via iframe
    - A json result can be consumed too  
+4. We can use results from other formula to be factor for our new formula
 
 
 
